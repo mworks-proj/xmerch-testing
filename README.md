@@ -29,13 +29,13 @@ We appreciate your participation in testing **XMerch**! Here’s how you can con
 3. **Discuss & Engage** – We actively monitor and respond to issues and suggestions!
 
 ## 🛠️ Testing Guidelines
-- **Live Store URL:** [https://merch-25.vercel.app/](https://merch-25.vercel.app/)
+- **Live Store URL:** [https://xmerch.app/](https://xmerch.app/)
 - **Accepted Payment:** **$XAH on Xahau Mainnet**
 - **Test Orders:** Buy an item (**1 $XAH + 0.03 shipping**) to experience the transaction flow.
 - **Raffle Vault Testing:** Each purchase sends **50% to the vault** – the raffle ends **Feb 13**.
 
 ## 📌 Important Links
-- **XMerch Live Store:** [https://merch-25.vercel.app/](https://merch-25.vercel.app/)
+- **XMerch Live Store:** [https://xmerch.app/](https://xmerch.app/)
 - **Submit an Issue:** [GitHub Issues](https://github.com/mworks-proj/xmerch-testing/issues)
 - **Follow Xahau Network Updates:** [@XahauNetwork](https://twitter.com/XahauNetwork)
 
