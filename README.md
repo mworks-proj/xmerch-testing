@@ -17,8 +17,6 @@ We appreciate your participation in testing **XMerch**! Here’s how you can con
 
 ✅ **Test Payment Flows** – Place test orders and provide feedback on the **checkout process, transaction handling, and overall experience.**
 
-✅ **Validate the 50% Raffle Vault** – Participate in the **Feb 1 - 13 live testing phase**, where 50% of each purchase goes to a vault, and a **random wallet** will be rewarded!
-
 ## 🚀 How to Submit Feedback
 
 1. **Check for Existing Issues** – Before submitting a new issue, browse the [Issues tab](https://github.com/mworks-proj/xmerch-testing/issues) to see if it has already been reported.
@@ -30,9 +28,6 @@ We appreciate your participation in testing **XMerch**! Here’s how you can con
 
 ## 🛠️ Testing Guidelines
 - **Live Store URL:** [https://xmerch.app/](https://xmerch.app/)
-- **Accepted Payment:** **$XAH on Xahau Mainnet**
-- **Test Orders:** Buy an item (**1 $XAH + 0.03 shipping**) to experience the transaction flow.
-- **Raffle Vault Testing:** Each purchase sends **50% to the vault** – the raffle ends **Feb 13**.
 
 ## 📌 Important Links
 - **XMerch Live Store:** [https://xmerch.app/](https://xmerch.app/)
