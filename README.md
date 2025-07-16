@@ -1,5 +1,5 @@
-![xMerch Banner](.github/images/xmerch-preproduction.png)
-# XMerch Testing & Feedback Repository 🚀 
+![xMerch Banner](.github/images/xmerch-demo.png)
+# XMerch Testing & Feedback Repository 🚀
 
 Welcome to the **XMerch Testing & Feedback Repository**! 🎉 This space is dedicated to tracking **issues, feedback, and improvements** for XMerch, our decentralized e-commerce platform leveraging **Xahau/XRPL** payments. Your insights will help shape the future of seamless XAH commerce! 💡
 
